@@ -11,5 +11,3 @@
 /app/etc/*
 
 !/app/etc/config.php
-
-!/packages
