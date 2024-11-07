@@ -1,0 +1,13 @@
+{
+    "name": "tony/gra-meta-brand-x",
+    "type": "metapackage",
+    "require": {
+        "tony/gra-meta-foundation": "~1.0",
+        "tony/module-local": "~1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        }
+    }
+}
